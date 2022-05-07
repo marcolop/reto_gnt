@@ -1,2 +1,2 @@
 # reto_gnt
-Reto de gtn
+Reto de gnt
